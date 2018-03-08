@@ -4,7 +4,7 @@ Twitter Feed Project
 Solution Instructions
 
 1. Solution is built in C#
-2. Should be run in Visio Studio 2015
+2. Should be run in Visual Studio 2015
 3. Update the app settings in the config file with the file paths of the input files
    (user.txt and tweet.txt).
 4. Unit test files are included the solution in the unit test folder. Update the app settings
