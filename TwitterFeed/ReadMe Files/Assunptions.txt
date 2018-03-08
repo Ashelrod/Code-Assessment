@@ -1,0 +1,7 @@
+Assumptions
+
+1. Spec doesn't say it, but users own tweets appears in his twitter feed
+2. Format of user file is delimited by "follows" and tweet file by ">", 
+3. User list must always have a name preceeding and suceeding "follows"
+4. Input values are case sensitive
+5. User cannot follow himself

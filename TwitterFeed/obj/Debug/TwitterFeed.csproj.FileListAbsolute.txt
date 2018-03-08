@@ -1,0 +1,17 @@
+C:\Projects\POC Projects\TwitterFeed\TwitterFeed\bin\Debug\TwitterFeed.exe.config
+C:\Projects\POC Projects\TwitterFeed\TwitterFeed\bin\Debug\TwitterFeed.exe
+C:\Projects\POC Projects\TwitterFeed\TwitterFeed\bin\Debug\TwitterFeed.pdb
+C:\Projects\POC Projects\TwitterFeed\TwitterFeed\obj\Debug\TwitterFeed.exe
+C:\Projects\POC Projects\TwitterFeed\TwitterFeed\obj\Debug\TwitterFeed.pdb
+C:\Projects\TwitterFeed\TwitterFeed\bin\Debug\TwitterFeed.exe.config
+C:\Projects\TwitterFeed\TwitterFeed\obj\Debug\TwitterFeed.exe
+C:\Projects\TwitterFeed\TwitterFeed\obj\Debug\TwitterFeed.pdb
+C:\Projects\TwitterFeed\TwitterFeed\bin\Debug\TwitterFeed.exe
+C:\Projects\TwitterFeed\TwitterFeed\bin\Debug\TwitterFeed.pdb
+C:\Projects\TwitterFeed\TwitterFeed\obj\Debug\TwitterFeed.csprojResolveAssemblyReference.cache
+C:\GitHub Repository\Development\TwitterFeed\bin\Debug\TwitterFeed.exe.config
+C:\GitHub Repository\Development\TwitterFeed\obj\Debug\TwitterFeed.exe
+C:\GitHub Repository\Development\TwitterFeed\obj\Debug\TwitterFeed.pdb
+C:\GitHub Repository\Development\TwitterFeed\bin\Debug\TwitterFeed.exe
+C:\GitHub Repository\Development\TwitterFeed\bin\Debug\TwitterFeed.pdb
+C:\GitHub Repository\Development\TwitterFeed\obj\Debug\TwitterFeed.csprojResolveAssemblyReference.cache
